@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=8000&pause=500&color=F7AFD4&center=true&vCenter=true&repeat=false&width=435&lines=%E4%B8%87%E7%89%A9%E9%9A%BE%E4%B8%BA%E6%9C%89%EF%BC%8C%E6%97%A0%E5%B8%B8%E4%BC%BC%E5%B0%BE%E8%8A%B1%E3%80%82%E7%A9%BA%E8%9D%89%E5%A6%82%E6%AD%A4%E4%B8%96%EF%BC%8C%E5%B9%BB%E7%81%AD%E8%8B%A5%E6%9C%9D%E9%9C%9E)](https://git.io/typing-svg)
-
 <!--
 **870255728/870255728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
