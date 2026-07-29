@@ -84,7 +84,11 @@
 ---
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph · Northern Hemisphere seasonal" />
+  <img
+    src="https://raw.githubusercontent.com/870255728/870255728/main/profile-3d-contrib/profile-season-animate.svg?v=20260729"
+    width="100%"
+    alt="3D Contribution Graph"
+  />
 </div>
 
 ---
