@@ -1,13 +1,5 @@
 <div align="center">
 
-<div align="center">
-  <img
-    src="https://media1.tenor.com/m/p0h5jFYJMUAAAAAd/sakura-kinomoto-sakura-cardcaptor.gif"
-    width="100%"
-    alt="Cardcaptor Sakura Banner"
-  />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+VIC+WA+NT+Hand&weight=600&size=30&pause=1000&color=F793BE&repeat=false&random=true&height=80&lines=Stay+hungry.+Stay+foolish.)](https://git.io/typing-svg)
 
 [![GitHub Followers](https://img.shields.io/github/followers/870255728?style=flat-square&logo=github&label=Followers)](https://github.com/870255728?tab=followers)
