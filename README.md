@@ -77,11 +77,6 @@
 
 ---
 
-## 📫 联系我
-
-- GitHub：[github.com/870255728](https://github.com/870255728)
-- Email：[870255728@qq.com](mailto:870255728@qq.com)
-
 <div align="center">
 
 > 保持好奇，持续学习，用工程实践沉淀真正的能力。
