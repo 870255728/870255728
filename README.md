@@ -52,15 +52,7 @@
 
 ---
 
-## 🚀 项目与实践
-
-| Repository | Description |
-| :-- | :-- |
-| [modern-software-dev-assignments](https://github.com/870255728/modern-software-dev-assignments) | 现代软件开发课程实践，包含 Prompt Engineering 与 Agentic Development 等内容 |
-| [bptree](https://github.com/870255728/bptree) | 数据结构与 B+Tree 相关学习实践 |
-| [echo_server_code](https://github.com/870255728/echo_server_code) | 网络编程与服务端开发相关实践 |
-
-更多内容可以在我的 [GitHub Repositories](https://github.com/870255728?tab=repositories) 中查看。
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=870255728)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
